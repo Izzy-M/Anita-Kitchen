@@ -6,7 +6,7 @@ opacity:0.8;background-attachment: fixed;background-size: contain;
     width:40px;height:40px;color:white;cursor:pointer;top: 100px;left: 100px;font-weight:bolder;
     font-size: 28px;position: absolute;
 }
-/*
+
 .logo{
     height:300px;width:300px;margin:0 auto;border-radius: 50%;background-image: url(assets/logoBig.png);
     background-size: cover;position: absolute;margin-top: 10%;margin-left:40%;
@@ -33,4 +33,4 @@ opacity:0.8;background-attachment: fixed;background-size: contain;
 .dinner{
     height:250px;width:25%;float:left;background-image: url("assets/foodtop/dinner.jpg");
     color:white;text-align:center;background-size: cover;
-}*/
+}
