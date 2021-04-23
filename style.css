@@ -54,7 +54,7 @@ opacity:0.9;background-size: contain;
 }
 
 .fastfoodimage{
-    border:1px solid white;box-shadow: -1px 1px 5px 9px rgba(104, 104, 104, 0.5);float:left;
+    border:1px solid white;box-shadow: -1px 1px 5px 9px rgba(104, 104, 104, 0.2);float:left;
     position: relative;margin-left:50px;margin-right: 50px;padding:20px;padding: 0 auto;text-align: center;
 }
 .fastfoodcont ,.fastdrinkcont{
@@ -67,7 +67,7 @@ opacity:0.9;background-size: contain;
     text-transform: capitalize;
 } 
 .fastdrinkimage{
-    border: solid white;box-shadow: -1px 1px 5px 9px rgba(104, 104, 104, 0.5);width:400px;
+    border: solid white;box-shadow: -1px 1px 5px 9px rgba(104, 104, 104, 0.2);width:400px;
     text-align: center;position:relative;
 }
 .postmiddle{
@@ -103,9 +103,10 @@ figcaption{
     cursor:pointer;color:blue;font-size: 48px;
 }
 .cus{
-    height:350px;width:100%;background:blue;display: flex;position: absolute;padding-top:2%;
+    height:350px;width:100%;background:white;display: flex;position: absolute;padding-top:2%;
+    justify-content: center;align-items: center;
 }
 .cusholder{
-    width:80%;flex-direction: row;
-    box-shadow:-1px 1px 5px 9px rgba(104,104,104,0.5);height:120px;background:white;
+    width:80%;flex-direction: row;height:250px;
+    box-shadow:-1px 1px 5px 9px rgba(104,104,104,0.2);background:white;
 }
