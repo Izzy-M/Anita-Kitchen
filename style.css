@@ -1,6 +1,6 @@
 .section1{
 height:800px;width:100%;background-image: url("assets/backgrounds/landing.jpg");
-opacity:0.9;background-size: contain;
+opacity:0.9;background-size: cover;
 }
 .menunav{
     width:40px;height:40px;color:white;cursor:pointer;top: 100px;left: 100px;font-weight:bolder;
@@ -109,4 +109,12 @@ figcaption{
 .cusholder{
     width:80%;flex-direction: row;height:250px;
     box-shadow:-1px 1px 5px 9px rgba(104,104,104,0.2);background:white;
+}
+.happycus{
+width:65%;height:inherit;background-color: transparent;float:left;text-align: center;;
+}
+.happycuscont{
+    width:34.5%;height:inherit;background: transparent;float:left;border-left: 1px solid  black;
+}.happycusspan,.menudet{
+    color:#F15A29;;text-align: center;text-transform: capitalize;
 }
