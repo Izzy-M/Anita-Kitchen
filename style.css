@@ -1,6 +1,6 @@
 .section1{
 height:800px;width:100%;background-image: url("assets/backgrounds/landing.jpg");
-opacity:0.8;background-attachment: fixed;background-size: contain;
+opacity:0.9;background-size: contain;
 }
 .menunav{
     width:40px;height:40px;color:white;cursor:pointer;top: 100px;left: 100px;font-weight:bolder;
@@ -8,7 +8,7 @@ opacity:0.8;background-attachment: fixed;background-size: contain;
 }
 
 .logo{
-    height:300px;width:300px;margin:0 auto;border-radius: 50%;background-image: url(assets/logoBig.png);
+    height:300px;width:300px;margin:0 auto;border-radius: 50%;background-image: url("assets/logoBig.png");
     background-size: cover;position: absolute;margin-top: 10%;margin-left:40%;
 }
 .logocontent{
@@ -22,15 +22,26 @@ opacity:0.8;background-attachment: fixed;background-size: contain;
 .midholder1{
     height:250px;width:25%;float:left;
 }
+.midholderfcontent{
+    background-color:#b8b3b3;height: 50%;text-align:center;
+    line-height: 120px;font-weight:bold;font-size:28px;
+}
+.midholderscontent{
+    background-color:#F15A29;height:50%;text-align:center;
+    line-height:120px;font-weight:bold;color: #ccc;font-size:28px;
+}
 .lunch{
     height:250px;width:25%;float:left;background-image: url("assets/foodtop/lunch.jpg");
-    color:white;text-align:center;background-size: cover;
+    color:white;text-align:center;background-size: cover;font-weight: bolder;font-size: 28px;
+    line-height:250px;opacity:0.4;
 }
 .breakfast{
     height:250px;width:25%;float:left;background-image: url("assets/foodtop/breakfast.jpg");
-    color:white;text-align:center;background-size: cover;
+    color:white;text-align:center;background-size: cover;font-weight: bolder;font-size: 28px;
+    line-height:250px;
 }
 .dinner{
     height:250px;width:25%;float:left;background-image: url("assets/foodtop/dinner.jpg");
-    color:white;text-align:center;background-size: cover;
+    color:white;text-align:center;background-size: cover;font-weight: bolder;font-size: 28px;
+    line-height:250px;
 }
