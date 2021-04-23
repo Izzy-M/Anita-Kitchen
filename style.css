@@ -33,15 +33,33 @@ opacity:0.9;background-size: contain;
 .lunch{
     height:250px;width:25%;float:left;background-image: url("assets/foodtop/lunch.jpg");
     color:white;text-align:center;background-size: cover;font-weight: bolder;font-size: 28px;
-    line-height:250px;opacity:0.4;
+    line-height:250px;opacity:0.4;font-style:italic;
 }
 .breakfast{
     height:250px;width:25%;float:left;background-image: url("assets/foodtop/breakfast.jpg");
     color:white;text-align:center;background-size: cover;font-weight: bolder;font-size: 28px;
-    line-height:250px;
+    line-height:250px;font-style:italic;
 }
 .dinner{
     height:250px;width:25%;float:left;background-image: url("assets/foodtop/dinner.jpg");
     color:white;text-align:center;background-size: cover;font-weight: bolder;font-size: 28px;
-    line-height:250px;
+    line-height:250px;font-style:italic;
+}
+.middleholder{
+    background-color: ivory;width:100%;height:auto;display: flex;flex-direction: column;
+}
+.fastfood ,.fastdrink{
+    height:400px;width:100%;display:flex;position:relative;margin-top:50px;
+    justify-content: center;
+}
+
+.fastfoodimage ,.fastdrinkimage{
+    height:350px;width:350px;border:1px solid black;box-shadow: 5px 5px grey;float:left;
+    position: relative;margin-left:50px;margin-right: 50px;
+}
+.fastfoodcont ,.fastdrinkcont{
+    height: inherit;float:left;margin-left:50px;margin-right: 50px;width:500px;
+}
+.fastfoodcont h2 ,.fastdrinkcont h2{
+    text-transform: capitalize;
 }
