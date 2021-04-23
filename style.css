@@ -53,13 +53,23 @@ opacity:0.9;background-size: contain;
     justify-content: center;
 }
 
-.fastfoodimage ,.fastdrinkimage{
-    height:350px;width:350px;border:1px solid black;box-shadow: 5px 5px grey;float:left;
-    position: relative;margin-left:50px;margin-right: 50px;
+.fastfoodimage{
+    border:1px solid white;box-shadow: -1px 1px 5px 9px rgba(104, 104, 104, 0.5);float:left;
+    position: relative;margin-left:50px;margin-right: 50px;padding:20px;padding: 0 auto;text-align: center;
 }
 .fastfoodcont ,.fastdrinkcont{
     height: inherit;float:left;margin-left:50px;margin-right: 50px;width:500px;
 }
-.fastfoodcont h2 ,.fastdrinkcont h2{
+.fastdrink .fastdrinkcont h1, h3,p{
+    text-align: right;
+}
+.fastfoodcont h1 ,.fastdrinkcont h1{
     text-transform: capitalize;
+} 
+.fastdrinkimage{
+    border: solid white;box-shadow: -1px 1px 5px 9px rgba(104, 104, 104, 0.5);width:400px;
+    text-align: center;position:relative;
+}
+.postmiddle{
+    height:450px;width:100%;background-image: url("");
 }
