@@ -46,7 +46,7 @@ opacity:0.9;background-size: contain;
     line-height:250px;font-style:italic;
 }
 .middleholder{
-    background-color: ivory;width:100%;height:auto;display: flex;flex-direction: column;
+    background-color: ivory;width:100%;height:auto;display: flex;flex-direction: column;margin-bottom: 30px;
 }
 .fastfood ,.fastdrink{
     height:400px;width:100%;display:flex;position:relative;margin-top:50px;
@@ -71,5 +71,23 @@ opacity:0.9;background-size: contain;
     text-align: center;position:relative;
 }
 .postmiddle{
-    height:450px;width:100%;background-image: url("");
+    height:500px;width:100%;background-image: url("assets/backgrounds/foodsBg.jpg");
+}
+.postmiddlecontholder{
+    height:400px;width:65%;background: white;position: absolute;margin-top: 2.5%;left:20%;display: flex;
+    flex-direction: row;
+}
+.postmiddledivh{
+    height:80px;background: #857f7f;position: absolute;width: 100%;;
+}
+.postmiddledivhdiv{
+    width:25%;font-weight:bold;text-transform: capitalize;float: left;text-align:center;flex-direction: row;
+    line-height:80px;border-width: 0.5px;border-color:black;border-collapse: collapse;
+}
+.postmiddlediv{
+    height:200px;width:20%;justify-content: space-around;background: #f0f0f0;float:left;
+    position: absolute;
+}
+.postmiddledivhdiv:hover{
+    background: white;cursor: pointer;border: none;
 }
