@@ -4,7 +4,7 @@ opacity:0.9;background-size: contain;
 }
 .menunav{
     width:40px;height:40px;color:white;cursor:pointer;top: 100px;left: 100px;font-weight:bolder;
-    font-size: 28px;position: absolute;
+    font-size: 36px;position: absolute;
 }
 
 .logo{
@@ -14,7 +14,7 @@ opacity:0.9;background-size: contain;
 .logocontent{
     width: 100%;min-height:10px;text-align: center;background:transparent;position:absolute;
     margin-top: 27%;color:white;text-transform: capitalize;font-family:'Franklin Gothic Medium';
-    font-size: 28px;
+    font-size: 40px;
 }
 .midholder{
     height:200px;width:200%;display:flex;flex-direction: row;
@@ -92,7 +92,7 @@ opacity:0.9;background-size: contain;
     background: white;cursor: pointer;border: none;color:#F15A29;
 }
 figcaption{
-    text-align: center;color:#F15A29;text-transform: capitalize;
+    text-align: center;color:#F15A29;text-transform: capitalize;font-weight: bold;
 }
 .slide{
     color:#F15A29 ;font-weight: bold;font-size: 40px;width:40px;
@@ -101,4 +101,11 @@ figcaption{
 }
 .slide span:hover{
     cursor:pointer;color:blue;font-size: 48px;
+}
+.cus{
+    height:350px;width:100%;background:blue;display: flex;position: absolute;padding-top:2%;
+}
+.cusholder{
+    width:80%;flex-direction: row;
+    box-shadow:-1px 1px 5px 9px rgba(104,104,104,0.5);height:120px;background:white;
 }
