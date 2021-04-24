@@ -55,7 +55,8 @@ opacity:0.9;background-size: cover;
 
 .fastfoodimage{
     border:1px solid white;box-shadow: -1px 1px 5px 9px rgba(104, 104, 104, 0.2);float:left;
-    position: relative;margin-left:50px;margin-right: 50px;padding:20px;padding: 0 auto;text-align: center;
+    position: relative;margin-left:50px;margin-right: 50px;padding:20px;padding: 0 auto;
+    text-align: center;
 }
 .fastfoodcont ,.fastdrinkcont{
     height: inherit;float:left;margin-left:50px;margin-right: 50px;width:500px;
@@ -126,10 +127,10 @@ figcaption{
     box-shadow:-1px 1px 5px 9px rgba(104,104,104,0.2);background:white;
 }
 .happycus{
-width:65%;height:inherit;background-color: transparent;float:left;text-align: center;
+width:63%;height:96%;background-color: transparent;float:left;text-align: center;
 }
 .happycuscont{
-    width:34.5%;height:inherit;background: transparent;float:left;border-left: 1px solid  black;
+    width:36%;height:90%;background: transparent;float:left;border-left:1px solid gray;margin-top:10px
 }.happycusspan,.menudet{
     color:#F15A29;;text-align: center;text-transform: capitalize;
 }
