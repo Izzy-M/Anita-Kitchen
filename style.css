@@ -157,3 +157,16 @@ width:65%;height:inherit;background-color: transparent;float:left;text-align: ce
 .formholder{
     text-align: center;color:white;padding-top:1px;font-size: 30px;
 }
+.btn{
+    height:70px;width:25%;color:white;background: #F15A29;cursor:pointer;font-weight: bold; 
+    vertical-align:center;text-align:center;margin-left: 20px;line-height: 70px;
+}
+input[type="email"]{
+    height:70px;width:60%;font-weight: bold;opacity: 0.2;color:white;float:right;
+}
+table td,tr{
+    border:none;
+}
+table{
+    width:80%; margin:0 auto;
+}
