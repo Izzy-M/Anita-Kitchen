@@ -194,8 +194,11 @@ width:200px;height:100px;border-radius:50%;
     text-transform: capitalize;color:rgb(255, 255, 255);font-weight: bold;font-size: 24px;
 }
 .social{
-    width: 300px;height:150px;background-size:fill;margin-top:10px;margin-left:5px
+    width: 300px;height:150px;background-size:fill;margin-top:10px;padding-left:10px
 }
 .social img{
     padding-left: 10px;margin-left:15px;margin-right:5px;
+}
+.footnote{
+    bottom:10px;
 }
