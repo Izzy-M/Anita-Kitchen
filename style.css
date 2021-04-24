@@ -70,12 +70,20 @@ opacity:0.9;background-size: cover;
     border: solid white;box-shadow: -1px 1px 5px 9px rgba(104, 104, 104, 0.2);width:400px;
     text-align: center;position:relative;
 }
+.btholder{
+    height:40px;border:2px solid #F15A29;width: 155px;text-align: center;font-family: bold;
+    color:#F15A29;font-weight: 40px;line-height: 40px;
+}
+.btholder1{
+    float:right;  height:40px;border:2px solid #F15A29;width: 155px;text-align: center;
+    font-family: bold;color:#F15A29;font-weight: 40px;line-height: 40px;
+}
 .postmiddle{
     height:500px;width:100%;background-image: url("assets/backgrounds/foodsBg.jpg");
 }
 .postmiddlecontholder{
-    height:400px;width:65%;background: white;position: absolute;margin-top: 2.5%;left:20%;display: flex;
-    flex-direction: row;float: left;
+    height:400px;width:65%;background: white;position: absolute;margin-top: 2.5%;left:15%;
+    display: flex;flex-direction: row;float: left;
 }
 .postmiddledivh{
     height:80px;background: #857f7f;position: absolute;width: 100%;
@@ -118,8 +126,11 @@ width:65%;height:inherit;background-color: transparent;float:left;text-align: ce
 }.happycusspan,.menudet{
     color:#F15A29;;text-align: center;text-transform: capitalize;
 }
+.menudet p{
+    color:black;font-size: 22px;text-align: center;padding:10px;
+}
 .picarea{
-    width:23%;height:120px;background-color:transparent;text-align:center;position: absolute;left:27%;
+    width:30%;height:120px;background-color:transparent;text-align:center;position: absolute;left:24%;
    
 }
 .picholder{
@@ -127,7 +138,8 @@ width:65%;height:inherit;background-color: transparent;float:left;text-align: ce
     margin-right:10px;align-items: center;margin-left: 10px;
 }
 .picholder1{
-    margin-right:20px;margin-left:20px;height:80px;width:80px;border-radius: 50%;background-size: cover;float:left;padding-top:20px;
+    margin-right:20px;margin-left:20px;height:80px;width:80px;border-radius: 50%;
+    background-size: cover; float:left;padding-top:20px;
 
 }
 .slide2{
@@ -137,4 +149,20 @@ width:65%;height:inherit;background-color: transparent;float:left;text-align: ce
 }
 .slide2 span:hover{
     cursor:pointer;color:blue;font-size: 48px;
+}
+.subscribe{
+    width: 100%;height:200px;background-image: url("assets/backgrounds/subscribe.jpg");
+    position: relative;top:520px;
+}
+.formholder{
+    text-align: right;color:white;
+}
+.btn{
+    height:40px;width:25%;color:white;background: #F15A29;cursor:pointer;font-weight: bold; text-align:left;margin-left: 20px;;
+}
+input[type=email]{
+    height:40px;width:40%;font-weight: bold;opacity: 0.5;color:white;
+}
+table td,tr{border:none;}
+table{width:90%; margin:0 auto;
 }
