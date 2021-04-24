@@ -103,18 +103,28 @@ figcaption{
     cursor:pointer;color:blue;font-size: 48px;
 }
 .cus{
-    height:350px;width:100%;background:white;display: flex;position: absolute;padding-top:2%;
+    height:500px;width:100%;background:white;display: flex;position: absolute;padding-top:2%;
     justify-content: center;align-items: center;
 }
 .cusholder{
-    width:80%;flex-direction: row;height:250px;
+    width:80%;flex-direction: row;height:400px;
     box-shadow:-1px 1px 5px 9px rgba(104,104,104,0.2);background:white;
 }
 .happycus{
-width:65%;height:inherit;background-color: transparent;float:left;text-align: center;;
+width:65%;height:inherit;background-color: transparent;float:left;text-align: center;
 }
 .happycuscont{
     width:34.5%;height:inherit;background: transparent;float:left;border-left: 1px solid  black;
 }.happycusspan,.menudet{
     color:#F15A29;;text-align: center;text-transform: capitalize;
+}
+.picarea{
+    width:20%;height:120px;background-color: yellowgreen;text-align:center;position: absolute;left:25%;
+}
+.picholder{
+    height:120px;width:120px;border-radius: 50%;background-size: cover;background: red;
+}
+.picholder1{
+    height:100px;width:100px;border-radius: 50%;background-size: cover;background: red;
+
 }
