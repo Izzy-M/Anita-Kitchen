@@ -151,18 +151,9 @@ width:65%;height:inherit;background-color: transparent;float:left;text-align: ce
     cursor:pointer;color:blue;font-size: 48px;
 }
 .subscribe{
-    width: 100%;height:200px;background-image: url("assets/backgrounds/subscribe.jpg");
+    width: 100%;height:250px;background-image: url("assets/backgrounds/subscribe.jpg");
     position: relative;top:520px;
 }
 .formholder{
-    text-align: right;color:white;
-}
-.btn{
-    height:40px;width:25%;color:white;background: #F15A29;cursor:pointer;font-weight: bold; text-align:left;margin-left: 20px;;
-}
-input[type=email]{
-    height:40px;width:40%;font-weight: bold;opacity: 0.5;color:white;
-}
-table td,tr{border:none;}
-table{width:90%; margin:0 auto;
+    text-align: center;color:white;padding-top:1px;font-size: 30px;
 }
