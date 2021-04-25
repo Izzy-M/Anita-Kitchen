@@ -129,9 +129,13 @@ figcaption{
 width:63%;height:96%;background-color: transparent;float:left;text-align: center;
 }
 .happycuscont{
-    width:36%;height:90%;background: transparent;float:left;border-left:1px solid gray;margin-top:10px
+    width:36%;height:90%;background: transparent;float:left;border-left:2px solid gray;margin-top:20px;
+    margin-bottom:10px;
 }.happycusspan,.menudet{
     color:#F15A29;;text-align: center;text-transform: capitalize;
+}
+.cusnameholder{
+    font-weight:bold;font-family:sans-serif;font-size: 20px;text-align:center;text-transform:capitalize;
 }
 .menudet p{
     color:black;font-size: 22px;text-align: center;padding:10px;
