@@ -5,11 +5,10 @@ knowledge in html and css
 The assignment is an html site biuld to look like the provided photo attached 
 
 # Features #
-    **HTML**
+    HTML
     the page makes use of html elemnts more but not limited to
-    -images
     -head tags
-    **CSS**
+    CSS
     the core and the backbone of this project is css
     the page uses  background images, borders, padding,flex display,margins, background colors,float
     among others
