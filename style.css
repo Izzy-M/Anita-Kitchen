@@ -50,13 +50,12 @@ opacity:0.9;background-size: cover;
 }
 .fastfood ,.fastdrink{
     height:400px;width:100%;display:flex;position:relative;margin-top:50px;
-    justify-content: center;
+    justify-content: center;flex-direction: row;
 }
-
 .fastfoodimage{
     border:1px solid white;box-shadow: -1px 1px 5px 9px rgba(104, 104, 104, 0.2);float:left;
-    position: relative;margin-left:50px;margin-right: 50px;padding:20px;padding: 0 auto;
-    text-align: center;
+    position: relative;margin-left:100px;margin-right: 50px;padding:20px;padding: 0 auto;
+    text-align: center;display: flex;flex-direction: column;
 }
 .fastfoodcont ,.fastdrinkcont{
     height: inherit;float:left;margin-left:50px;margin-right: 50px;width:500px;
