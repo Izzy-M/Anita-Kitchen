@@ -69,7 +69,7 @@ opacity:0.9;background-size: cover;
 } 
 .fastdrinkimage{
     border: solid white;box-shadow: -1px 1px 5px 9px rgba(104, 104, 104, 0.2);width:400px;
-    text-align: center;position:relative;
+    text-align: center;position:relative;margin-left: 30px;
 }
 .btholder{
     height:50px;border:2px solid #F15A29;width: 180px;font-family: bold;
