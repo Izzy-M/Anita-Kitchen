@@ -16,6 +16,6 @@ The assignment is an html site biuld to look like the provided photo attached
 
 # Running the project #
 to get the viewable page in the browser just click the below link
-view(https://isaiahke.github.io/Anita-Kitchen/index.html)
+view: <https://isaiahke.github.io/Anita-Kitchen/index.html>
 
     
