@@ -3,7 +3,7 @@
 This is an the second assignment tha aims at testing the skills that I have learnt so far despite having a litte
 knowledge in html and css
 The assignment is an html site biuld to look like the provided photo attached 
-[picture alt](http://via.placeholder.com/200x150 "Title is optional")
+[assignment photo](https://github.com/IsaiahKe/Anita-Kitchen/blob/master/Anitas%20Kitchen.jpg)
 
 # Features #
     HTML
