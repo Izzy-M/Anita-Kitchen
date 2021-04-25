@@ -1,10 +1,10 @@
-#Overview#
+# Overview #
  
 This is an the second assignment tha aims at testing the skills that I have learnt so far despite having a litte
 knowledge in html and css
 The assignment is an html site biuld to look like the provided photo attached 
 
-#Features#
+# Features #
     **HTML**
     the page makes use of html elemnts more but not limited to
     -images
@@ -14,7 +14,7 @@ The assignment is an html site biuld to look like the provided photo attached
     the page uses  background images, borders, padding,flex display,margins, background colors,float
     among others
 
-#Running the project#
+# Running the project #
 to get the viewable page in the browser just click the below link
 view(https://isaiahke.github.io/Anita-Kitchen/index.html)
 
